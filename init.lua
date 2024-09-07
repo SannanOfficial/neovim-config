@@ -8,3 +8,9 @@ require("config.harpoon")
 require("config.slimline")
 vim.cmd(':colorscheme everforest')
 require("config.colors")
+
+vim.cmd([[
+    if !exists("g:netrw_banner")
+        let g:netrw_banner = 0
+    endif
+]])

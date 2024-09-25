@@ -5,8 +5,8 @@ require("config.lua_snip")
 require("config.vim_fugitive")
 require("config")
 require("config.harpoon")
-vim.cmd(':colorscheme everforest')
-vim.cmd(':AirlineTheme gruvbox_material')
+vim.cmd(':colorscheme catppuccin')
+vim.cmd(':AirlineTheme catppuccin')
 require("config.colors")
 
 vim.cmd([[

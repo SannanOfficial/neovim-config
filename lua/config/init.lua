@@ -34,7 +34,6 @@ vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
 
-
 -- Remaps
 
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)

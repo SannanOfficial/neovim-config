@@ -22,6 +22,10 @@ And lastly, I added VSCode-like code snippets by following the same LSP Zero doc
 - [undotree](https://github.com/mbbill/undotree) to visualize and alter file history.
 - [vim-fugitive](https://github.com/tpope/vim-fugitive), "A Git wrapper so awesome, it should be illegal".
 - [slimline.nvim](https://github.com/sschleemilch/slimline.nvim) for an elegant statusline.
+- [codeium.vim](https://github.com/Exafunction/codeium.vim) for code completion, type hinting, and more. **NOTE:** If you are on the free plan, I suggest disabling code telemetry from your dashboard.
+- [everforest](https://github.com/sainnhe/everforest) for primary colorscheme.
+- [gruvbox-material](https://github.com/sainnhe/gruvbox-material) for secondary colorscheme.
+- [catppuccin](https://github.com/catppuccin/nvim) for tertiary colorscheme.
 - Transparent background window so that you can stare at all of your harem anime waifus right as you work. **Disclaimer: I do not partake in said harem-gazing while at work, nor do I recommend it. I have noticed that it causes the gazer considerable damage in productivity, and increases the already hefty number of weird looks they get from co-workers and friends alike. I prefer the picture of [this mountain](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fardz5g17os451.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Da18c894a24b519aa6be7b7b7901fd9eedd3829c6) as my wallpaper instead.**
 - Custom sets and mappings.
 - Custom colorscheme.

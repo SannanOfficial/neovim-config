@@ -21,7 +21,8 @@ And lastly, I added VSCode-like code snippets by following the same LSP Zero doc
 - [harpoon2](https://github.com/ThePrimeagen/harpoon/tree/harpoon2) attached with telescope for swift workspace file navigation with the aid of keyboard shortcuts and specialized view for repetitive files.
 - [undotree](https://github.com/mbbill/undotree) to visualize and alter file history.
 - [vim-fugitive](https://github.com/tpope/vim-fugitive), "A Git wrapper so awesome, it should be illegal".
-- [slimline.nvim](https://github.com/sschleemilch/slimline.nvim) for an elegant statusline.
+- [vim-airline](https://github.com/vim-airline/vim-airline) for an elegant statusline.
+- [cord.nvim](https://github.com/vyfor/cord.nvim) for Discord presence.
 - [codeium.vim](https://github.com/Exafunction/codeium.vim) for code completion, type hinting, and more. **NOTE:** If you are on the free plan, I suggest disabling code telemetry from your dashboard.
 - [everforest](https://github.com/sainnhe/everforest) for primary colorscheme.
 - [gruvbox-material](https://github.com/sainnhe/gruvbox-material) for secondary colorscheme.

@@ -23,7 +23,7 @@ And lastly, I added VSCode-like code snippets by following the same LSP Zero doc
 - [vim-fugitive](https://github.com/tpope/vim-fugitive), "A Git wrapper so awesome, it should be illegal".
 - [vim-airline](https://github.com/vim-airline/vim-airline) for an elegant statusline.
 - [cord.nvim](https://github.com/vyfor/cord.nvim) for Discord presence.
-- [copilot.vim](https://github.com/github/copilot.vim) for code completion, type hinting, and more. **NOTE:** If you are on the free plan, I suggest disabling code telemetry from your dashboard.
+- [codeium.vim](https://github.com/Exafunction/codeium.vim) for code completion, type hinting, and more. **NOTE:** If you are on the free plan, I suggest disabling code telemetry from your dashboard.
 - [everforest](https://github.com/sainnhe/everforest) for primary colorscheme.
 - [gruvbox-material](https://github.com/sainnhe/gruvbox-material) for secondary colorscheme.
 - [catppuccin](https://github.com/catppuccin/nvim) for tertiary colorscheme.

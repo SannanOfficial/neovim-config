@@ -5,7 +5,7 @@ require("config.lua_snip")
 require("config.vim_fugitive")
 require("config")
 require("config.harpoon")
-vim.cmd(':colorscheme gruvbox-material')
+vim.cmd(':colorscheme nord')
 vim.cmd(':AirlineTheme monochrome')
 require("config.colors")
 

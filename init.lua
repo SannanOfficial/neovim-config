@@ -40,4 +40,7 @@ vim.cmd([[
     let g:airline_symbols.branch = ''
     let g:airline_symbols.readonly = ''
     let g:airline_symbols.linenr = ''  
+
+    " OpenAI integration
+    let g:vim_ai_token_file_path = '~/.config/nvim/openai.token'
 ]])
